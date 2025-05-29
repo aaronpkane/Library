@@ -17,5 +17,5 @@ static let (color1Name): Color = Color(red: xxx/255, green: xxx/255, blue: xxx/2
 static let (color2Name): Color = Color(red: xxx/255, green: xxx/255, blue: xxx/255) // hex: #FF686B
 
 //  Color extensions must be identified using RGB values, so use:
-[Hex to RGB Converter](https://www.htmlcolorcodes.com/hex-to-rgb/)
+https://www.htmlcolorcodes.com/hex-to-rgb/
 //  to identify required values.
