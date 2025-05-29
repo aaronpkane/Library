@@ -1,3 +1,3 @@
 # Libraries
 
-[Adding **Color**](libraries/color.ext.swift)
+[Adding **Color**](color.ext.swift)
