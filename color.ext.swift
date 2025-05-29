@@ -13,8 +13,8 @@
 
 //  To add as a color extension, enter the following snippet in your main target file:
 
-static let xxx: Color = Color(red: xxx/255, green: xxx/255, blue: xxx/255) // hex: #F5F3F4
-static let xxx: Color = Color(red: xxx/255, green: xxx/255, blue: xxx/255) // hex: #FF686B
+static let (color1Name): Color = Color(red: xxx/255, green: xxx/255, blue: xxx/255) // hex: #F5F3F4
+static let (color2Name): Color = Color(red: xxx/255, green: xxx/255, blue: xxx/255) // hex: #FF686B
 
 //  Color extensions must be identified using RGB values, so use:
 //  https://htmlcolorcodes.com/hex-to-rgb/
